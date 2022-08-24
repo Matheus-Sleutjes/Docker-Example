@@ -1,0 +1,11 @@
+C:\Docker\API\bin\Debug\net6.0\publish\API.exe
+C:\Docker\API\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Docker\API\bin\Debug\net6.0\publish\appsettings.json
+C:\Docker\API\bin\Debug\net6.0\publish\API.dll
+C:\Docker\API\bin\Debug\net6.0\publish\API.deps.json
+C:\Docker\API\bin\Debug\net6.0\publish\API.runtimeconfig.json
+C:\Docker\API\bin\Debug\net6.0\publish\API.pdb
+C:\Docker\API\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Docker\API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Docker\API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Docker\API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

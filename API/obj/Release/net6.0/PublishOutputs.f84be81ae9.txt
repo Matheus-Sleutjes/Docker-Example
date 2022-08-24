@@ -1,0 +1,11 @@
+C:\Docker\API\published\API.exe
+C:\Docker\API\published\appsettings.Development.json
+C:\Docker\API\published\appsettings.json
+C:\Docker\API\published\API.dll
+C:\Docker\API\published\API.deps.json
+C:\Docker\API\published\API.runtimeconfig.json
+C:\Docker\API\published\API.pdb
+C:\Docker\API\published\Microsoft.OpenApi.dll
+C:\Docker\API\published\Swashbuckle.AspNetCore.Swagger.dll
+C:\Docker\API\published\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Docker\API\published\Swashbuckle.AspNetCore.SwaggerUI.dll
