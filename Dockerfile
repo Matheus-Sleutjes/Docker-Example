@@ -37,5 +37,5 @@ ENTRYPOINT ["dotnet", "API.dll"]
 #dotnet build - para ver se tem algum erro
 #dotnet restore - para restaurar as dependencias do projeto
 #dotnet publish -o ./dist - gera o dll dentro da pasta dist
-#docker build -t NOME_IMAGEM .
-#docker container run -p 5000:80 NOME_IMAGEM
+#docker build -t nome-imagem .
+#docker container run -p 5000:80 nome-imagem
